@@ -1,4 +1,11 @@
 # Bubble_sort
+    This project is the first project in the ruby module in microverse. The  project aims at testing students understanding of blocks and methods in ruby
+## GETTING STARTED
+    To have a local version of this code running do the following:
+- clone the repository
+- install the ruby compiler and any preferred code editor of your choice
+- Run the command ruby main.rb 
+
 ## Built With
 
 - Ruby
