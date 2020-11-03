@@ -10,7 +10,7 @@ def bubble_sort(arr)
   end
   p arr
 end
- bubble_sort([10, -2, 4, 0, 5, 1])
+bubble_sort([10, -2, 4, 0, 5, 1])
 
 def bubble_sort_by(arr)
   arr.each_with_index do |i, j|
